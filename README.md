@@ -5,7 +5,7 @@ Accurate estimation of building heights is essential for urban planning, infrast
 
 <img src="https://github.com/RituYadav92/Building-Height-Estimation_SEN12_IGARSS23/blob/main/Network_Architecture.JPG" alt="Flood Sites" width="1000" height="300">
 
-<img src="https://github.com/RituYadav92/Building-Height-Estimation_SEN12_IGARSS23/blob/main/Data_samples.JPG" alt="Flood Sites" width="1000" height="300">
+<img src="https://github.com/RituYadav92/Building-Height-Estimation_SEN12_IGARSS23/blob/main/Data_samples.JPG" alt="Flood Sites" width="700" height="300">
 
 ## Run
 ```
