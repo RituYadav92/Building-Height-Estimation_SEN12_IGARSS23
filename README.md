@@ -14,7 +14,7 @@ train.py evaluate --weight 'WEIGHT_FILE_NAME.h5'
 ## If you are using this work, please cite:
 ```
 @INPROCEEDINGS{10283039,
-  author={Nascetti, Andrea and Yadav, Ritu and Ban, Yifang},
+  author={Yadav, Ritu and Nascetti, Andrea and Ban, Yifang},
   booktitle={IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium}, 
   title={A CNN Regression Model to Estimate Buildings Height Maps Using Sentinel-1 SAR and Sentinel-2 MSI Time Series}, 
   year={2023},
