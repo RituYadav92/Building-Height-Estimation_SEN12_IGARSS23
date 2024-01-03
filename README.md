@@ -3,7 +3,7 @@
 ## Description: 
 Accurate estimation of building heights is essential for urban planning, infrastructure management, and environmental analysis. In this study, we propose a supervised Multimodal Building Height Regression Network (MBHR-Net) for estimating building heights at 10m spatial resolution using Sentinel-1 (S1) and Sentinel-2 (S2) satellite time series. S1 provides Synthetic Aperture Radar (SAR) data that offers valuable information on building structures, while S2 provides multispectral data that is sensitive to different land cover types, vegetation phenology, and building shadows. Our MBHR-Net aims to extract meaningful features from the S1 and S2 images to learn complex spatio-temporal relationships between image patterns and building heights. The model is trained and tested in 10 cities in the Netherlands. Root Mean Squared Error (RMSE), Intersection over Union (IOU), and R-squared (R2) score metrics are used to evaluate the performance of the model. The preliminary results (3.73m RMSE, 0.95 IoU, 0.61 R 2 ) demonstrate the effectiveness of our deep learning model in accurately estimating building heights, showcasing its potential for urban planning, environmental impact analysis, and other related applications. (https://ieeexplore.ieee.org/abstract/document/10283039 )
 
-<img src="https://github.com/RituYadav92/Building-Height-Estimation_SEN12_IGARSS23/blob/main/Network_Architecture.JPG" alt="Flood Sites" width="900" height="400">
+<img src="https://github.com/RituYadav92/Building-Height-Estimation_SEN12_IGARSS23/blob/main/Network_Architecture.JPG" alt="Flood Sites" width="1000" height="400">
 
 ## Run
 ```
