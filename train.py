@@ -4,16 +4,14 @@ from tensorflow.keras.layers import Input
 from tensorflow import keras
 from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint
 from sklearn.metrics import mean_squared_error
-from pathlib import Path
 
-from config import *
+from code.config import *
 
-from utils import load_data
-from DG import Cust_DatasetGenerator
-from model import *
-from losses import *
+from code.utils import load_data
+from code.DG import Cust_DatasetGenerator
+from code.model import *
 #Resnet50_UNet, Combined_HE_model,sar_encoder1, opt_encoder1, decoder1
-from utils import GRD_toRGB_S1, GRD_toRGB_S2
+from code.utils import GRD_toRGB_S1, GRD_toRGB_S2
 import rasterio
 import cv2 as cv
 import numpy as np
